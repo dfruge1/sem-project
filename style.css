@@ -7,7 +7,7 @@ padding: 0;
 .main{
 
 width: 100%;
-background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(Images/);
+background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(Images/image_126b6fa3-6768-4868-a13a-cdc747f6e2fb.jpg);
 background-position: center;
 background-size: cover;
 height: 109vh;
@@ -87,7 +87,7 @@ width: 200px;
 height:40px;
 border: 1px solid green;
 margin-top: 13px;
-color: white;
+color: black;
 border-right: none;
 font-size: 16px;
 float: left;
