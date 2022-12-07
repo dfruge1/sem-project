@@ -73,7 +73,7 @@ ul li a:hover {
   margin-left: 270px;
 }
 .srch {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   width: 200px;
   height: 40px;
   border: 1px solid green;
@@ -124,7 +124,7 @@ ul li a:hover {
 }
 
 .content h1 {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 30px;
   padding-left: 20px;
   margin-top: 9%;
